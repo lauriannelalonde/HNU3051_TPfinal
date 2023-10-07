@@ -75,8 +75,8 @@ ni une bébelle d’universitaires du dimanche \
 \
 *une machine de nerfs broyés* \
 *qui visse les yeux à l’horreur* \
-*dans une dernière tentative d’humanité* \
-\
+*dans une dernière tentative d’humanité*
+
 ## LA SOUVERAINETÉ DE LA CRASSE
 je veux communier \
 avec ce soleil mort \
@@ -135,8 +135,8 @@ et je me laverai \
 dans un baril \
 de vieille huile sale \
 et de bière tiède \
-pour me nettoyer de vos savons \
-\
+pour me nettoyer de vos savons
+
 ## HOW TO MAKE A MONSTER
 orphelins des mutations \
 surfant la mort \
@@ -222,8 +222,8 @@ votre apocalypse \
 made in japan \
 des arcades aux mangas \
 le message est clair : \
-the world is a creepy place to live \
-and soon it will go up in flames \
+**the world is a creepy place to live** \
+**and soon it will go up in flames** \
 \
 un soluté de sang technicolor \
 de larmes de barbie torturées \
@@ -275,9 +275,8 @@ mortes \
 \
 la beauté \
 se trouve à portée \
-de moignon \
-\
-\
+de moignon
+
 ## PROCHAINE STATION?
 en métro \
 comme dans un wagon à bestiaux \
@@ -296,8 +295,8 @@ parce que les chiens errants \
 finissent à la fourrière \
 *et est-ce qu’on est plus libre* \
 *chrisse* \
-*quand on hypothèque son corps?* \
-\
+*quand on hypothèque son corps?*
+
 ## CE SERAIT SI BON
 ce serait si bon \
 que poussent des crocs \
@@ -373,10 +372,11 @@ et leurs chaînes \
 et je jouerais un peu \
 à la domination \
 et à la destruction \
-des âmes… \
-\
+des âmes…
+
 ## DERNIÈRE VOLONTÉ
 *(Ce poème est paru sous une forme différente dans le volume 11, numéro 3 de la revue Trois.)* \
+\
 c’est ce soir que je m’en vais au diable \
 mais tout d’abord boire un dernier verre \
 **LE** dernier verre \
@@ -411,8 +411,8 @@ après \
 j’pourrai aller m’coucher en paix \
 six pieds sous terre \
 avec le sentiment \
-du devoir accompli \
-\
+du devoir accompli
+
 ## PLEIN LE CUL
 de vous regarder baver \
 vos amours \
@@ -433,8 +433,8 @@ la dignité humaine tâte dans la noirceur \
 avec ses mains décapitées \
 \
 vous sentez l’escargot brûlé \
-sous le soleil irradieux \
-\
+sous le soleil irradieux
+
 ## BARRIÈRE PSYCHOLOGIQUE
 la mort fait son striptease quotidien \
 aux nouvelles \
@@ -446,8 +446,8 @@ se gargarisent d’agonie \
 \
 la souffrance en rediffusion \
 est un pain qui ne lève plus \
-au four de la conscience \
-\
+au four de la conscience
+
 ## TROUVER L’ERREUR
 des asticots plein le poitrail \
 nous sourions avec des dents cannibales \
@@ -474,8 +474,8 @@ en s’encornant \
 les uns les autres \
 comme des vaches folles \
 parce qu’on est arrivés \
-à la fin depuis le début \
-\
+à la fin depuis le début
+
 ## UNE MINUTES DE CONSCIENCE COMMANDITÉE PAR UN ESTOMAC PLEIN
 tu manges dans ton assiette \
 l’estomac gonflé famélique de tiers-monde \
@@ -511,8 +511,8 @@ contaminer tes anticorps rationnels \
 répands la peste le désordre le chaos \
 n’importe comment \
 n’importe quoi \
-quelque chose… \
-\
+quelque chose…
+
 ## DÉCLARATION D’HOSTILITÉ
 j’accuse d’être malade \
 tout ce qui est en santé \
