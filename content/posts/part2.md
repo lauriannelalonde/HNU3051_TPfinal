@@ -7,8 +7,8 @@ weight = 4
 chapitre = "oui"
 +++
 
-**OSMOSE-MOI** \
-\
+# SOUVIENS-MOI DE L’AMOUR
+## OSMOSE-MOI
 couds tes lèvres derrière moi \
 engloutis-moi comme un trou d’anti-matière \
 digère-moi de l’intérieur \
@@ -28,11 +28,9 @@ me désovuler \
 \
 plonger sans bouée \
 sans cordon ombilical \
-dans ton triangle des bermudes \
-\
-\
-**(sans titre)** \
-\
+dans ton triangle des bermudes
+
+## (sans titre)
 les oiseaux pleuvent \
 sciés en plein vol \
 \
@@ -41,11 +39,9 @@ tombent de fatigue \
 mais tu ne les ramasses pas \
 \
 ton destin \
-n’est pas à vol de paupières \
-\
-\
-**(sans titre)** \
-\
+n’est pas à vol de paupières
+
+## (sans titre)
 tes yeux \
 comme des nénuphars \
 flottant sur des larmes \
@@ -53,11 +49,9 @@ qui ne pleurent pas \
 \
 s’abandonnent \
 avec des tendresses \
-de sablier \
-\
-\
-**(sans titre)** \
-\
+de sablier
+
+## (sans titre)
 belle \
 comme un masque \
 funéraire d’enfant, \
@@ -69,11 +63,9 @@ des mines amorcées \
 par les monstres \
 de steak haché \
 qui ont vendu ton monde \
-à la réalité \
-\
-\
-**(sans titre)** \
-\
+à la réalité
+
+## (sans titre)
 tu portes \
 dans ton nombril \
 un bijou \
@@ -83,11 +75,9 @@ haute étoile \
 chrysalide \
 hibernant \
 jusqu’à l’invention \
-de l’amour \
-\
-\
-**(sans titre)** \
-\
+de l’amour
+
+## (sans titre)
 si je pouvais \
 seulement savoir \
 ce que tu retiens \
@@ -107,17 +97,15 @@ ou d’une larme \
 alors, \
 \
 je verrais \
-ton visage d’enfant \
-\
-\
-**(sans titre)** \
-\
+ton visage d’enfant
+
+## (sans titre)
 peux-tu deviner \
 le souffle dans le cercueil de chair \
 ma vie qui hurle de toi \
 devant l’urgence \
 de s’immiscer \
-dans les brèches \ 
+dans les brèches \
 du temps perdu \
 \
 l’horreur \
@@ -136,11 +124,9 @@ qu’il me suffirait d’un élan vers toi \
 pour devenir libre de naître \
 sous l’étoile de mon choix \
 \
-*accouche-moi de force* \
-\
-\
-**(sans titre)** \
-\
+*accouche-moi de force*
+
+## (sans titre)
 te rappelles-tu \
 de l’avenir \
 \
@@ -149,11 +135,9 @@ que demain existe \
 autrement que comme \
 une caricature d’hier \
 \
-souviens-moi de l’amour \
-\
-\
-**(sans titre)** \
-\
+souviens-moi de l’amour
+
+## (sans titre)
 je m’effondre à tes pieds \
 comme un continent \
 déchiré de frontières \
