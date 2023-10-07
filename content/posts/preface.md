@@ -13,14 +13,14 @@ chapitre = "oui"
 
 
 Louis-Ferdinand Céline, \
-*Mort à crédit.* \
+*Mort à crédit.* 
 \
-\
-> *Donc, des gens bien assis,* 
-> *Exempts de soucis,* 
-> *Méfiez-vous du poète,* 
-> *Qui peut, ayant faim,* 
-> *Vous mettre, à la fin,* 
+
+> *Donc, des gens bien assis,* \
+> *Exempts de soucis,* \
+> *Méfiez-vous du poète,* \
+> *Qui peut, ayant faim,* \
+> *Vous mettre, à la fin,* \
 > *Quelques balles dans la tête*
 
 
