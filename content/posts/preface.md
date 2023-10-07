@@ -12,7 +12,6 @@ chapitre = "oui"
 > *Il en jutera sur la terre assez pour qu’elle empoisonne, qu’il pousse plus dessus que des vacheries, entre des morts, entre les hommes.* 
 
 
-
 Louis-Ferdinand Céline, \
 *Mort à crédit.* 
 
@@ -25,6 +24,6 @@ Louis-Ferdinand Céline, \
 > *Quelques balles dans la tête*
 
 
-
 Charles Cros, \
-*Le Collier de griffes.* 
+*Le Collier de griffes.*
+
