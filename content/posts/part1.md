@@ -383,8 +383,8 @@ et à la destruction \
 des âmes… \
 \
 \
-*(Ce poème est paru sous une forme différente dans le volume 11, numéro 3 de la revue Trois.)* \
 **DERNIÈRE VOLONTÉ** \
+*(Ce poème est paru sous une forme différente dans le volume 11, numéro 3 de la revue Trois.)* \
 \
 c’est ce soir que je m’en vais au diable \
 mais tout d’abord boire un dernier verre \ 
@@ -547,7 +547,7 @@ par conséquent \
 j’ai le droit le devoir et l’honneur \
 de cracher sur votre bonheur en \
 carton-pâte \
-et vos sourires de pub de dentifrice \
+et vos sourires de pub de dentifrice
 
 
 
