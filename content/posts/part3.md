@@ -7,13 +7,14 @@ weight = 5
 chapitre = "oui"
 +++
 
->*Au matin j’avais le regard si perdu et la contenance si morte, que ceux que j’ai rencontrés ne m’ont peut-être pas vu.*
+# NÉCROSES
+> *Au matin j’avais le regard si perdu et la contenance si morte, que ceux que j’ai rencontrés ne m’ont peut-être pas vu.*
+
+
 Arthur Rimbaud, \
-*Une saison en enfer.* \
-\
-\
-**CHERCHER LA SORTIE DE SECOURS** \
-\
+*Une saison en enfer.*
+
+## CHERCHER LA SORTIE DE SECOURS
 je bave mes derniers électrochocs \
 discipliné dans ma torture \
 je classe mes morts par ordre chrono- \
@@ -29,11 +30,9 @@ est un jeu qui ne se perd \
 qu’une seule fois \
 \
 je n’ai pas encore \
-eu cette chance \
-\
-\
-**DIAGNOSTIC** \
-\
+eu cette chance
+
+## DIAGNOSTIC
 les tripes \
 pesantes comme une pile \
 de serviettes mouillées \
@@ -47,11 +46,9 @@ concassé comme de la craie \
 écrasée à coups de marteau \
 \
 mon corps est un automne \
-qui n’en finit plus de pourrir \
-\
-\
-**LA COUR AUX MIRACLES** \
-\
+qui n’en finit plus de pourrir
+
+## LA COUR AUX MIRACLES
 ma pensée \
 se coagule autour de mes cris avortés \
 qui flottent comme des icebergs \
@@ -66,11 +63,9 @@ je respire comme on se noie \
 je parle à dieu en ultrasons \
 je lui télégraphie \
 des blasphèmes de viande crue \
-enfermé dans mon abattoir nerveux \
-\
-\
-**LA CICATRICE DE CHARLOTTE** \
-\
+enfermé dans mon abattoir nerveux
+
+## LA CICATRICE DE CHARLOTTE
 La cicatrice de Charlotte \
 lui déchire la joue \
 comme un éclair de chair pâle \
@@ -133,11 +128,9 @@ en couverture du dernier \
 numéro de Elle \
 \
 si ça arrivait, je serais ben oblogé \
-de câlisser mon poème à la poubelle \
-\
-\
-**ALCOOLIQUE ANONYME** \
-\
+de câlisser mon poème à la poubelle
+
+## ALCOOLIQUE ANONYME
 mes cicatrices de braise \
 flashent dans la nuit \
 comme des feux follets de néon rouge \
@@ -173,11 +166,9 @@ le triangle des bermudes \
 qui me siphonne ma joie \
 qui m’aspire dans sa gueule \
 comme le trou d’un bain \
-quand on enlève le bouchon \
-\
-\
-**GUEULE DE BOIS** \
-\
+quand on enlève le bouchon
+
+## GUEULE DE BOIS
 toute la nuite \
 à jouer aux fléchettes sur le cœur de mon \
 ange-gardien \
@@ -206,11 +197,9 @@ garroché à la poubelle \
 le sérum \
 me tient au chaud \
 dans un simulacre \
-de paix \
-\
-\
-**SODO-SADO LOVE** \
-\
+de paix
+
+## SODO-SADO LOVE
 une tâche de sang \
 et de savon frais \
 sur le tapis de la salle de bains \
@@ -249,11 +238,9 @@ je t’aime jusqu’au sang \
 mon amour \
 la mort est belle \
 quand elle sourit \
-d’entre tes cuisses \
-\
-\
-**VOCATION** \
-\
+d’entre tes cuisses
+
+## VOCATION
 brûlé par les deux bouts \
 comme le cierge de baptême \
 d’un enfant mort-né \
@@ -269,11 +256,9 @@ je suis l’avenir de l’espèce \
 à moi tout seul \
 perdu tout-nu dans la rue \
 les mains vides \
-pleines de sang vide \
-\
-\
-**LE SYNDRÔME DU TITANIC** \
-\
+pleines de sang vide
+
+## LE SYNDRÔME DU TITANIC
 Déclarer forfait \
 tuer le reste de foi ridicule \
 d’espoir désespérant \
@@ -283,19 +268,15 @@ du change dans la fente \
 OVER apparaît \
 en grosses lettres flashantes \
 \
-*j’ai plus le goût de jouer à mourir* \
-\
-\
-**FIDÈLE À LA TORTURE** \
-\
+*j’ai plus le goût de jouer à mourir*
+
+## FIDÈLE À LA TORTURE
 je suis l’éternel disséqué toujours punaisé sous le microscope \
 du docteur fou qui connaît \
 toutes les façons de tuer \
-sans faire mourir \
-\
-\
-**LA TRAJECTOIRE D’UN CRASH** \
-\
+sans faire mourir
+
+## LA TRAJECTOIRE D’UN CRASH
 une marée de cicatrices d’anges \
 revient me lécher sur le sable brûlé \
 \
@@ -303,11 +284,9 @@ je comprends cette musique \
 qui parle d’être digéré par \
 la solitude \
 comme mourir noyé \
-dans sa soif \
-\
-\
-**MASO inc.** \
-\
+dans sa soif
+
+## MASO inc.
 un amour de tronçonneuse \
 a fait de moi \
 de fières petites rondelles \
@@ -320,11 +299,9 @@ qui s’invente \
 de nouveaux organes \
 pour souffrir \
 épargne à l’enfer \
-le salaire du diable \
-\
-\
-**LA TENTATION DU PROZAC** \
-\
+le salaire du diable
+
+## LA TENTATION DU PROZAC
 une épidémie de feu salé \
 mastique mon image dans un miroir \
 névralgique \
@@ -342,26 +319,20 @@ cette moissonneuse-batteuse \
 qui défriche ma viande \
 sans y semer autre chose \
 qu’une saison de cicatrices \
-et de coagulation \
-\
-\
-**LA NUIT TOMBE SUR ZOMBIEVILLE** \
-\
+et de coagulation
+
+## LA NUIT TOMBE SUR ZOMBIEVILLE
 La saison des écartèlements \
 a jeté ses outils dans mon crâne \
 \
 Des chuchotements d’apocalypse \
 me conseillent d’allumer tout de suite \
-la dernière cigarette de la journée \
-\
-\
-**LA VIE EST UN LONG FLEUVE PLEIN DE MARDE** \
-\
-Je sais pas flotter \
-\
-\
-**LA MASTURBATION ET L’ENNUI** \
-\
+la dernière cigarette de la journée
+
+## LA VIE EST UN LONG FLEUVE PLEIN DE MARDE
+Je sais pas flotter
+
+## LA MASTURBATION ET L’ENNUI
 Les électrodes du matin \
 ne vaudront jamais un bâillement \
 de son sexe de tigre endormi \
@@ -371,22 +342,18 @@ je  vandalise l’amour \
 comme un bulldozer en rut \
 et je pleure \
 bandé devant la beauté \
-de mes gales \
-\
-\
-**MESSAGE D’INTÉRÊT PUBLIC** \
-\
+de mes gales
+
+## MESSAGE D’INTÉRÊT PUBLIC
 Commandité par Néant enrg. \
 je vous livre \
 ce message d’espoir \
 à frais virés : \
 \
 La vie commence bientôt, \
-achetez des actions \
-\
-\
-**POPCORN OPÉRA** \
-\
+achetez des actions
+
+## POPCORN OPÉRA
 vingt-six cartons d’allumettes écornés \
 traînant un peu partout dans l’appar- \
 tement \
@@ -430,11 +397,9 @@ avec des grimaces encore moins \
 cruelles \
 que celle que je me fais à moi-même \
 en fast-forwardant la cassette-vidéo \
-jusqu’au prochain bain de sang \
-\
-\
-**JELL-O NAUSÉE** \
-\
+jusqu’au prochain bain de sang
+
+## JELL-O NAUSÉE
 penser \
 est devenu \
 plus difficile \
@@ -461,11 +426,9 @@ mal digérés \
 qui shakent \
 de tous leurs membres \
 devant l’avenir \
-de l’amour \
-\
-\
-**KUNG-FU VICTIM** \
-\
+de l’amour 
+
+## KUNG-FU VICTIM
 au mur, \
 le poster de bruce lee, \
 dragon aux muscles bandés \
