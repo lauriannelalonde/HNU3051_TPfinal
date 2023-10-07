@@ -5,7 +5,7 @@ title = ""
 weight = 1 
 chapitre = "non" +++
 
-**Crédit**
+**Crédit** \
 Auteur : Martin Ouellet \
 Titre :	Babel rage \
 Date de parution :	avril 2001 \
