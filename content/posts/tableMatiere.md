@@ -8,7 +8,8 @@ chapitre = "oui"
 +++
 
 # TABLE DES MATIÈRES
-1. BABEL RAGE
+
+1. [BABEL RAGE](https://lauriannelalonde.github.io/HNU3051_TPfinal/part1/)
     1. MANIFESTE
     2. LA SOUVERAINETÉ DE LA CRASSE
     3. HOW TO MAKE A MONSTER
@@ -22,7 +23,7 @@ chapitre = "oui"
     11. COMMANDITÉ PAR UN ESTOMAC PLEIN
     12. DÉCLARATION D'HOSTILITÉ
 
-2. SOUVIENS-MOI DE L'AMOUR
+2. [SOUVIENS-MOI DE L'AMOUR](https://lauriannelalonde.github.io/HNU3051_TPfinal/part2/)
     1. OSMOSE-MOI
     2. (sans titre)
     3. (sans titre)
@@ -33,7 +34,7 @@ chapitre = "oui"
     8. (sans titre)
     9. (sans titre)
 
-3. NÉCROSES
+3. [NÉCROSES](https://lauriannelalonde.github.io/HNU3051_TPfinal/part3/)
     1. CHERCHER LA SORTIE DE SECOURS
     2. DIAGNOSTIC
     3. LA COUR AUX MIRACLES
