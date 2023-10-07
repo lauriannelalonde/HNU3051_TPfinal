@@ -12,6 +12,7 @@ chapitre = "oui"
 > *Il en jutera sur la terre assez pour qu’elle empoisonne, qu’il pousse plus dessus que des vacheries, entre des morts, entre les hommes.* 
 
 
+
 Louis-Ferdinand Céline, \
 *Mort à crédit.* 
 
@@ -22,6 +23,7 @@ Louis-Ferdinand Céline, \
 > *Qui peut, ayant faim,* \
 > *Vous mettre, à la fin,* \
 > *Quelques balles dans la tête*
+
 
 
 Charles Cros, \
