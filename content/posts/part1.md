@@ -7,7 +7,7 @@ weight = 1
 chapitre = "oui"
 +++
 
-_MANIFESTE_ \
+**MANIFESTE** \
 \
 serre ben le garrot \
 autour de la langue \
@@ -34,16 +34,16 @@ qu’est-ce qu’on en a à crisser \
 que ta violence soit pas artistique \
 ton angoisse pas métaphysique \
 pis ta révolte pas poétique \
-
+\
 rimbaud crèverait \
 de voir ses œuvres dans la pléiade \
 en caractères ben alignés \
 emprisonnées sous couverture de cuir \
 son enfer imprimé sur papier bible \
 à tranche dorée \
-toute ben "classée" \
+toute ben classée \
 entre st-simon et les présocratiques \
-
+\
 la souffrance a pas de valeur stylistique \
 un animal qui hurle pris au piège \
 ça se soucie pas trop trop de l’esthétique de son cri \
@@ -77,7 +77,7 @@ ni une bébelle d’universitaires du dimanche \
 *qui visse les yeux à l’horreur* \
 *dans une dernière tentative d’humanité* \
 \
-_LA SOUVERAINETÉ DE LA CRASSE_ \
+**LA SOUVERAINETÉ DE LA CRASSE** \
 \
 je veux communier \
 avec ce soleil mort \
