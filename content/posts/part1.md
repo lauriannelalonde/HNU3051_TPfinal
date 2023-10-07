@@ -7,8 +7,8 @@ weight = 3
 chapitre = "oui"
 +++
 
-**MANIFESTE** \
-\
+# BABEL RAGE
+## MANIFESTE
 serre ben le garrot \
 autour de la langue \
 pour un autre shoot d’encre noire \
@@ -77,9 +77,7 @@ ni une bébelle d’universitaires du dimanche \
 *qui visse les yeux à l’horreur* \
 *dans une dernière tentative d’humanité* \
 \
-\
-**LA SOUVERAINETÉ DE LA CRASSE** \
-\
+## LA SOUVERAINETÉ DE LA CRASSE
 je veux communier \
 avec ce soleil mort \
 qui dissout l’horizon \
@@ -139,9 +137,7 @@ de vieille huile sale \
 et de bière tiède \
 pour me nettoyer de vos savons \
 \
-\
-**HOW TO MAKE A MONSTER** \
-\
+## HOW TO MAKE A MONSTER
 orphelins des mutations \
 surfant la mort \
 sur des vagues de dépotoir \
@@ -282,8 +278,7 @@ se trouve à portée \
 de moignon \
 \
 \
-**PROCHAINE STATION?** \
-\
+## PROCHAINE STATION?
 en métro \
 comme dans un wagon à bestiaux \
 l’âme en laisse \
@@ -303,9 +298,7 @@ finissent à la fourrière \
 *chrisse* \
 *quand on hypothèque son corps?* \
 \
-\
-**CE SERAIT SI BON** \
-\
+## CE SERAIT SI BON
 ce serait si bon \
 que poussent des crocs \
 à la mâchoire de ma pitié \
@@ -382,10 +375,8 @@ et je jouerais un peu \
 et à la destruction \
 des âmes… \
 \
-\
-**DERNIÈRE VOLONTÉ** \
+## DERNIÈRE VOLONTÉ
 *(Ce poème est paru sous une forme différente dans le volume 11, numéro 3 de la revue Trois.)* \
-\
 c’est ce soir que je m’en vais au diable \
 mais tout d’abord boire un dernier verre \ 
 LE dernier verre \
@@ -422,9 +413,7 @@ six pieds sous terre \
 avec le sentiment \
 du devoir accompli \
 \
-\
-**PLEIN LE CUL** \
-\
+## PLEIN LE CUL
 de vous regarder baver \
 vos amours \
 d’insectes lépreux \
@@ -446,9 +435,7 @@ avec ses mains décapitées \
 vous sentez l’escargot brûlé \
 sous le soleil irradieux \
 \
-\
-**BARRIÈRE PSYCHOLOGIQUE** \
-\
+## BARRIÈRE PSYCHOLOGIQUE
 la mort fait son striptease quotidien \
 aux nouvelles \
 encouragé par le râle des sirènes \
@@ -461,9 +448,7 @@ la souffrance en rediffusion \
 est un pain qui ne lève plus \
 au four de la conscience \
 \
-\
-**TROUVER L’ERREUR** \
-\
+## TROUVER L’ERREUR
 des asticots plein le poitrail \
 nous sourions avec des dents cannibales \
 en attendant la fin \
@@ -491,9 +476,7 @@ comme des vaches folles \
 parce qu’on est arrivés \
 à la fin depuis le début \
 \
-\
-**UNE MINUTES DE CONSCIENCE COMMANDITÉE PAR UN ESTOMAC PLEIN** \
-\
+## UNE MINUTES DE CONSCIENCE COMMANDITÉE PAR UN ESTOMAC PLEIN
 tu manges dans ton assiette \
 l’estomac gonflé famélique de tiers-monde \
 piqué sur ta fourchette d’indifférence \
@@ -530,9 +513,7 @@ n’importe comment \
 n’importe quoi \
 quelque chose… \
 \
-\
-**DÉCLARATION D’HOSTILITÉ** \
-\
+## DÉCLARATION D’HOSTILITÉ
 j’accuse d’être malade \
 tout ce qui est en santé \
 et me vante d’être \
