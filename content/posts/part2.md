@@ -1,5 +1,5 @@
 +++
-chapter = "2ème Partie \ SOUVIENS-MOI DE L’AMOUR"
+chapter = "2ème Partie : SOUVIENS-MOI DE L’AMOUR"
 date = "2020-10-31T10:01:00.000+00:00"
 image = "images/logo.png"
 title = ""
