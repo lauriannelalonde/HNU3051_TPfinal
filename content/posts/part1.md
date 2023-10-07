@@ -378,8 +378,8 @@ des âmes… \
 ## DERNIÈRE VOLONTÉ
 *(Ce poème est paru sous une forme différente dans le volume 11, numéro 3 de la revue Trois.)* \
 c’est ce soir que je m’en vais au diable \
-mais tout d’abord boire un dernier verre \ 
-LE dernier verre \
+mais tout d’abord boire un dernier verre \
+**LE** dernier verre \
 le verre de trop comme on dit \
 juste le temps d’oublier \
 qu’il faut que je boive pour oublier \
