@@ -12,7 +12,9 @@ chapitre = "oui"
 
 
 Arthur Rimbaud, \
-*Une saison en enfer.*
+*Une saison en enfer.* [^3]
+
+[^3]: [Une saison en enfer, d'Arthur Rimbaud](https://www.babelio.com/livres/Rimbaud-Une-saison-en-enfer/1330014)
 
 ## CHERCHER LA SORTIE DE SECOURS
 je bave mes derniers électrochocs \
