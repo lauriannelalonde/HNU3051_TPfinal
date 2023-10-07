@@ -1,7 +1,11 @@
-
-
-
-
++++
+chapter = "Préface"
+date = "2020-10-31T10:01:00.000+00:00"
+image = "images/logo.png"
+title = ""
+weight = 0
+chapitre = "oui"
++++
 
 > La vraie haine, elle vient du fond, elle vient de la jeunesse perdue au boulot sans défense. 
 >Alors celle-là qu’on en crève, y en aura encore si profond qu’il en restera tout de même partout. 
