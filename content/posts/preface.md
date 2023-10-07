@@ -14,7 +14,8 @@ chapitre = "oui"
 
 Louis-Ferdinand Céline, \
 *Mort à crédit.* \
-\
+
+
 > *Donc, des gens bien assis,* \
 > *Exempts de soucis,* \
 > *Méfiez-vous du poète,* \
