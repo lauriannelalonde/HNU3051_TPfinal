@@ -14,7 +14,7 @@ chapitre = "oui"
 
 
 Louis-Ferdinand Céline, \
-*Mort à crédit.* 
+*Mort à crédit.* [^1]
 
 
 > *Donc, des gens bien assis,* \
@@ -26,7 +26,10 @@ Louis-Ferdinand Céline, \
 
 
 Charles Cros, \
-*Le Collier de griffes.*
+*Le Collier de griffes.* [^2]
+
+[^1]: [Mort à crédit, de Louis-Ferdinand Céline](https://www.babelio.com/livres/Celine-Mort-a-credit/2980) 
+[^2]: [Le Collier de griffes, de Charles Cros](https://www.babelio.com/livres/Cros-Le-collier-de-griffes/6542)
 
 ## MANIFESTE
 serre ben le garrot \
