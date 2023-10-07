@@ -13,7 +13,7 @@ chapitre = "oui"
 
 
 Louis-Ferdinand Céline, \
-*Mort à crédit.* \
+*Mort à crédit.* 
 
 
 > *Donc, des gens bien assis,* \
