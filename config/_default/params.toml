@@ -1,7 +1,7 @@
 auteur = "Martin Ouellet"
 bloctexte = "center"
 copyright = "CC BY-NC-SA"
-couverture = "/uploads/couverture.png"
+couverture = "themes/roman/layouts/_default/couverture.png"
 description = "Martin Ouellet a publié Mourir en rond en 1999 au Éditions TROIS. Babel Rage est son deuxième livre."
 edition = "HNU3051 - A2023 - Laurianne Lalonde"
 format = "portrait"
